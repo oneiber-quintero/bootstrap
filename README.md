@@ -1,2 +1,2 @@
-# bootstrap
-pagina realizada con bootstrp
+# responsive design
+pagina responsive design
